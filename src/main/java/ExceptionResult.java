@@ -1,4 +1,5 @@
 /**
+ * 异常提示信息
  * @author chocoh
  */
 public class ExceptionResult {

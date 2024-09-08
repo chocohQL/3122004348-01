@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 /**
+ * SimHash海明距离算法
  * @author chocoh
  */
 public class HammingUtil {
